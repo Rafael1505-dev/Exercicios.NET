@@ -9,6 +9,6 @@ Este repositório contém exercícios de .NET organizados em diferentes classes.
 
 ## Enunciados Propostos
 
-Exercício 1
+### Exercício 1
 
 ![Diagrama do Exercício 1](./Image/exe1.png)
