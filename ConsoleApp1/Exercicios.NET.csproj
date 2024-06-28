@@ -96,6 +96,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ExercicioAula1.cs" />
+    <Compile Include="ExercicioAula2.cs" />
+    <Compile Include="ExercicioAula3.cs" />
+    <Compile Include="ExercicioAula4.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
