@@ -4,7 +4,7 @@ Este repositório contém exercícios de .NET organizados em diferentes classes.
 
 ## Índice
 
-1. [Exercício 1](./Exercicio1)
+1. [Exercício 1](.ConsoleApp1/ExercicioAula1.cs)
 2. [Exercício 2](./Exercicio2)
 
 ## Enunciados
