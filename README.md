@@ -8,4 +8,4 @@ Este repositório contém exercícios de .NET organizados em diferentes classes.
 2. [Exercício 2](./Exercicio2)
 
 ## Enunciados
-![Diagrama do Exercício 1](./image/exe1.png)
+![Diagrama do Exercício 1](./Image/exe1.png)
