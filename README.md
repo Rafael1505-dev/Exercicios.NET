@@ -4,6 +4,7 @@ Este repositório contém exercícios de .NET organizados em diferentes classes.
 
 ## Códigos dos Exercícios
 
+0. [Menu](./ConsoleApp1/Program.cs)
 1. [Exercício 1](./ConsoleApp1/ExercicioAula1.cs)
 2. [Exercício 2](./ConsoleApp1/ExercicioAula2.cs)
 3. [Exercício 3](./ConsoleApp1/ExercicioAula3.cs)
