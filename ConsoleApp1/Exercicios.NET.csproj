@@ -96,6 +96,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ExercicioAula1.cs" />
+    <Compile Include="ExercicioAula10.cs" />
+    <Compile Include="ExercicioAula11.cs" />
+    <Compile Include="ExercicioAula12.cs" />
+    <Compile Include="ExercicioAula13.cs" />
     <Compile Include="ExercicioAula2.cs" />
     <Compile Include="ExercicioAula3.cs" />
     <Compile Include="ExercicioAula4.cs" />
@@ -103,6 +107,7 @@
     <Compile Include="ExercicioAula6.cs" />
     <Compile Include="ExercicioAula7.cs" />
     <Compile Include="ExercicioAula8.cs" />
+    <Compile Include="ExercicioAula9.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
