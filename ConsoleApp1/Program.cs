@@ -21,6 +21,8 @@ namespace Exercicios.NET
                 Console.WriteLine("3. Executar Exercicio 3");
                 Console.WriteLine("4. Executar Exercicio 4");
                 Console.WriteLine("5. Executar Exercicio 5");
+                Console.WriteLine("6. Executar Exercicio 6");
+                Console.WriteLine("7. Executar Exercicio 7");
                 Console.WriteLine("0. Sair");
                 Console.Write("Escolha uma opção: ");
 
@@ -47,6 +49,14 @@ namespace Exercicios.NET
                     case "5":
                         Exercicio5 exercicio5 = new Exercicio5();
                         exercicio5.ExercicioAula5();
+                        break;
+                    case "6":
+                        Exercicio6 exercicio6 = new Exercicio6();
+                        exercicio6.ExercicioAula6();
+                        break;
+                    case "7":
+                        Exercicio7 exercicio7 = new Exercicio7();
+                        exercicio7.ExercicioAula7();
                         break;
                     case "0":
                         return; // Sai do programa
