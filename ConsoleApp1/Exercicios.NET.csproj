@@ -102,6 +102,7 @@
     <Compile Include="ExercicioAula5.cs" />
     <Compile Include="ExercicioAula6.cs" />
     <Compile Include="ExercicioAula7.cs" />
+    <Compile Include="ExercicioAula8.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
