@@ -10,19 +10,20 @@ namespace Exercicios.NET
     {
         public void ExercicioAula12()
         {
-            // Exercício Gasto de Combustível em C#
+            // Exercício Média de três notas em C#
 
-            Console.WriteLine("\n===== Exercício Gasto de Combustível em C# =======\n\n");
-            Console.WriteLine("Informe abaixo o tempo gasto na viagem e em seguida, a velocidade média efetuada: ");
+            Console.WriteLine("\n===== Exercício Média de três notas em C# =======\n\n");
+            Console.WriteLine("Informe abaixo as três notas tiradas pelo aluno: ");
 
-            int spedTime = int.Parse(Console.ReadLine());
-            int midVelocity = int.Parse(Console.ReadLine());
+            double gradeA = double.Parse(Console.ReadLine());
+            double gradeB = double.Parse(Console.ReadLine());
+            double gradeC = double.Parse(Console.ReadLine());
 
-            double result = ((spedTime * midVelocity) / 12.0);
+            double average = (((gradeA * 0.2) + (gradeB * 0.3) + (gradeC * 0.5))/ 1.0);
 
             Console.WriteLine("\n===== RESULTADO DO EXERCÍCIO =======\n\n");
 
-            Console.WriteLine(String.Format("{0:F3}", result));
+            Console.WriteLine($"MEDIA = {average:F1}");
         }
     }
 }

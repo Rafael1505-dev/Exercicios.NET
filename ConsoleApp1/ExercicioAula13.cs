@@ -10,19 +10,22 @@ namespace Exercicios.NET
     {
         public void ExercicioAula13()
         {
-            // Exercício Gasto de Combustível em C#
+            // Exercício Salário com Bônus em C#
 
-            Console.WriteLine("\n===== Exercício Gasto de Combustível em C# =======\n\n");
-            Console.WriteLine("Informe abaixo o tempo gasto na viagem e em seguida, a velocidade média efetuada: ");
+            Console.WriteLine("\n===== Exercício Salário com Bônus em C# =======\n\n");
+            Console.WriteLine("Informe abaixo o nome, salário e quantidade de vendas efetuadas no mês para o cálculo do holerite mensal: ");
 
-            int spedTime = int.Parse(Console.ReadLine());
-            int midVelocity = int.Parse(Console.ReadLine());
+            string name = Console.ReadLine();
+            double salary = double.Parse(Console.ReadLine());
+            double sales = double.Parse(Console.ReadLine());
 
-            double result = ((spedTime * midVelocity) / 12.0);
+            double commission = sales * 0.15;
+
+            salary = salary + commission;
 
             Console.WriteLine("\n===== RESULTADO DO EXERCÍCIO =======\n\n");
 
-            Console.WriteLine(String.Format("{0:F3}", result));
+            Console.WriteLine($"TOTAL = R$ {salary:F2}");
         }
     }
 }

@@ -29,6 +29,10 @@ namespace Exercicios.NET
                 Console.WriteLine("11. Executar Exercicio 11");
                 Console.WriteLine("12. Executar Exercicio 12");
                 Console.WriteLine("13. Executar Exercicio 13");
+                Console.WriteLine("14. Executar Exercicio 14");
+                Console.WriteLine("15. Executar Exercicio 15");
+                Console.WriteLine("16. Executar Exercicio 16");
+                Console.WriteLine("17. Executar Exercicio 17");
                 Console.WriteLine("0. Sair");
                 Console.Write("Escolha uma opção: ");
 
@@ -79,6 +83,30 @@ namespace Exercicios.NET
                     case "11":
                         Exercicio11 exercicio11 = new Exercicio11();
                         exercicio11.ExercicioAula11();
+                        break;
+                    case "12":
+                        Exercicio12 exercicio12 = new Exercicio12();
+                        exercicio12.ExercicioAula12();
+                        break;
+                    case "13":
+                        Exercicio13 exercicio13 = new Exercicio13();
+                        exercicio13.ExercicioAula13();
+                        break;
+                    case "14":
+                        Exercicio14 exercicio14 = new Exercicio14();
+                        exercicio14.ExercicioAula14();
+                        break;
+                    case "15":
+                        Exercicio15 exercicio15 = new Exercicio15();
+                        exercicio15.ExercicioAula15();
+                        break;
+                    case "16":
+                        Exercicio16 exercicio16 = new Exercicio16();
+                        exercicio16.ExercicioAula16();
+                        break;
+                    case "17":
+                        Exercicio17 exercicio17 = new Exercicio17();
+                        exercicio17.ExercicioAula17();
                         break;
                     case "0":
                         return; // Sai do programa
