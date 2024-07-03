@@ -20,6 +20,19 @@ namespace Exercicios.NET
                 Console.WriteLine("2. Executar Exercicio 2");
                 Console.WriteLine("3. Executar Exercicio 3");
                 Console.WriteLine("4. Executar Exercicio 4");
+                Console.WriteLine("5. Executar Exercicio 5");
+                Console.WriteLine("6. Executar Exercicio 6");
+                Console.WriteLine("7. Executar Exercicio 7");
+                Console.WriteLine("8. Executar Exercicio 8");
+                Console.WriteLine("9. Executar Exercicio 9");
+                Console.WriteLine("10. Executar Exercicio 10");
+                Console.WriteLine("11. Executar Exercicio 11");
+                Console.WriteLine("12. Executar Exercicio 12");
+                Console.WriteLine("13. Executar Exercicio 13");
+                Console.WriteLine("14. Executar Exercicio 14");
+                Console.WriteLine("15. Executar Exercicio 15");
+                Console.WriteLine("16. Executar Exercicio 16");
+                Console.WriteLine("17. Executar Exercicio 17");
                 Console.WriteLine("0. Sair");
                 Console.Write("Escolha uma opção: ");
 
@@ -42,6 +55,58 @@ namespace Exercicios.NET
                     case "4":
                         Exercicio4 exercicio4 = new Exercicio4();
                         exercicio4.ExercicioAula4();
+                        break;
+                    case "5":
+                        Exercicio5 exercicio5 = new Exercicio5();
+                        exercicio5.ExercicioAula5();
+                        break;
+                    case "6":
+                        Exercicio6 exercicio6 = new Exercicio6();
+                        exercicio6.ExercicioAula6();
+                        break;
+                    case "7":
+                        Exercicio7 exercicio7 = new Exercicio7();
+                        exercicio7.ExercicioAula7();
+                        break;
+                    case "8":
+                        Exercicio8 exercicio8 = new Exercicio8();
+                        exercicio8.ExercicioAula8();
+                        break;
+                    case "9":
+                        Exercicio9 exercicio9 = new Exercicio9();
+                        exercicio9.ExercicioAula9();
+                        break;
+                    case "10":
+                        Exercicio10 exercicio10 = new Exercicio10();
+                        exercicio10.ExercicioAula10();
+                        break;
+                    case "11":
+                        Exercicio11 exercicio11 = new Exercicio11();
+                        exercicio11.ExercicioAula11();
+                        break;
+                    case "12":
+                        Exercicio12 exercicio12 = new Exercicio12();
+                        exercicio12.ExercicioAula12();
+                        break;
+                    case "13":
+                        Exercicio13 exercicio13 = new Exercicio13();
+                        exercicio13.ExercicioAula13();
+                        break;
+                    case "14":
+                        Exercicio14 exercicio14 = new Exercicio14();
+                        exercicio14.ExercicioAula14();
+                        break;
+                    case "15":
+                        Exercicio15 exercicio15 = new Exercicio15();
+                        exercicio15.ExercicioAula15();
+                        break;
+                    case "16":
+                        Exercicio16 exercicio16 = new Exercicio16();
+                        exercicio16.ExercicioAula16();
+                        break;
+                    case "17":
+                        Exercicio17 exercicio17 = new Exercicio17();
+                        exercicio17.ExercicioAula17();
                         break;
                     case "0":
                         return; // Sai do programa
