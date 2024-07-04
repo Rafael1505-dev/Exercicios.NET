@@ -2,7 +2,7 @@
 
 Este repositório contém exercícios de .NET organizados em diferentes classes. Cada exercício está em sua própria pasta e contém o enunciado e o código-fonte necessário resolvidos pelo autor.
 
-## Códigos dos Exercícios de estrutura sequencial
+## Códigos dos Exercícios
 
 0. [Menu de opções](./ConsoleApp1/Program.cs)
 1. [Exercício 1](./ConsoleApp1/ExercicioAula1.cs)
@@ -26,14 +26,11 @@ Este repositório contém exercícios de .NET organizados em diferentes classes.
 19. [Exercício 19](./ConsoleApp1/ExercicioAula19.cs)
 20. [Exercício 20](./ConsoleApp1/ExercicioAula20.cs)
 21. [Exercício 21](./ConsoleApp1/ExercicioAula21.cs)
-
-## Códigos dos Exercícios de estrutura condicional
-
 22. [Exercício 22](./ConsoleApp1/ExercicioAula22.cs)
 
 
 
-## Enunciados Propostos dos Exercícios Propostos Acima
+## Enunciados Propostos 
 
 ### Exercício 1
 
