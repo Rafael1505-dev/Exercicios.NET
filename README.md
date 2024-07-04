@@ -4,7 +4,7 @@ Este repositório contém exercícios de .NET organizados em diferentes classes.
 
 ## Códigos dos Exercícios
 
-0. [Menu](./ConsoleApp1/Program.cs)
+0. [Menu dos exercícios](./ConsoleApp1/Program.cs)
 1. [Exercício 1](./ConsoleApp1/ExercicioAula1.cs)
 2. [Exercício 2](./ConsoleApp1/ExercicioAula2.cs)
 3. [Exercício 3](./ConsoleApp1/ExercicioAula3.cs)
@@ -22,11 +22,15 @@ Este repositório contém exercícios de .NET organizados em diferentes classes.
 15. [Exercício 15](./ConsoleApp1/ExercicioAula15.cs)
 16. [Exercício 16](./ConsoleApp1/ExercicioAula16.cs)
 17. [Exercício 17](./ConsoleApp1/ExercicioAula17.cs)
+18. [Exercício 18](./ConsoleApp1/ExercicioAula18.cs)
+19. [Exercício 19](./ConsoleApp1/ExercicioAula19.cs)
+20. [Exercício 20](./ConsoleApp1/ExercicioAula20.cs)
+21. [Exercício 21](./ConsoleApp1/ExercicioAula21.cs)
+22. [Exercício 22](./ConsoleApp1/ExercicioAula22.cs)
 
 
 
-
-## Enunciados Propostos
+## Enunciados Propostos 
 
 ### Exercício 1
 
@@ -95,3 +99,20 @@ Este repositório contém exercícios de .NET organizados em diferentes classes.
 ### Exercício 17
 
 ![Diagrama do Exercício 17](./Image/exe17.png)
+
+### Exercício 18
+
+![Diagrama do Exercício 18](./Image/exe18.png)
+
+### Exercício 19
+
+![Diagrama do Exercício 19](./Image/exe19.png)
+
+### Exercício 20
+
+![Diagrama do Exercício 20](./Image/exe20.png)
+
+### Exercício 21
+
+![Diagrama do Exercício 21](./Image/exe21.png)
+
