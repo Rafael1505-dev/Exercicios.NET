@@ -105,7 +105,10 @@
     <Compile Include="ExercicioAula16.cs" />
     <Compile Include="ExercicioAula17.cs" />
     <Compile Include="ExercicioAula18.cs" />
+    <Compile Include="ExercicioAula19.cs" />
     <Compile Include="ExercicioAula2.cs" />
+    <Compile Include="ExercicioAula20.cs" />
+    <Compile Include="ExercicioAula21.cs" />
     <Compile Include="ExercicioAula3.cs" />
     <Compile Include="ExercicioAula4.cs" />
     <Compile Include="ExercicioAula5.cs" />
