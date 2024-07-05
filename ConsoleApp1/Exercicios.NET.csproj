@@ -115,7 +115,10 @@
     <Compile Include="ExercicioAula25.cs" />
     <Compile Include="ExercicioAula26.cs" />
     <Compile Include="ExercicioAula27.cs" />
+    <Compile Include="ExercicioAula28.cs" />
+    <Compile Include="ExercicioAula29.cs" />
     <Compile Include="ExercicioAula3.cs" />
+    <Compile Include="ExercicioAula30.cs" />
     <Compile Include="ExercicioAula4.cs" />
     <Compile Include="ExercicioAula5.cs" />
     <Compile Include="ExercicioAula6.cs" />
