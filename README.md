@@ -27,6 +27,11 @@ Este repositório contém exercícios de .NET organizados em diferentes classes.
 20. [Exercício 20](./ConsoleApp1/ExercicioAula20.cs)
 21. [Exercício 21](./ConsoleApp1/ExercicioAula21.cs)
 22. [Exercício 22](./ConsoleApp1/ExercicioAula22.cs)
+23. [Exercício 23](./ConsoleApp1/ExercicioAula23.cs)
+24. [Exercício 24](./ConsoleApp1/ExercicioAula24.cs)
+25. [Exercício 25](./ConsoleApp1/ExercicioAula25.cs)
+26. [Exercício 26](./ConsoleApp1/ExercicioAula26.cs)
+
 
 
 
@@ -115,4 +120,24 @@ Este repositório contém exercícios de .NET organizados em diferentes classes.
 ### Exercício 21
 
 ![Diagrama do Exercício 21](./Image/exe21.png)
+
+### Exercício 22
+
+![Diagrama do Exercício 22](./Image/exe22.png)
+
+### Exercício 23
+
+![Diagrama do Exercício 23](./Image/exe23.png)
+
+### Exercício 24
+
+![Diagrama do Exercício 24](./Image/exe24.png)
+
+### Exercício 25
+
+![Diagrama do Exercício 25](./Image/exe25.png)
+
+### Exercício 26
+
+![Diagrama do Exercício 26](./Image/exe26.png)
 

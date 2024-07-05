@@ -109,6 +109,12 @@
     <Compile Include="ExercicioAula2.cs" />
     <Compile Include="ExercicioAula20.cs" />
     <Compile Include="ExercicioAula21.cs" />
+    <Compile Include="ExercicioAula22.cs" />
+    <Compile Include="ExercicioAula23.cs" />
+    <Compile Include="ExercicioAula24.cs" />
+    <Compile Include="ExercicioAula25.cs" />
+    <Compile Include="ExercicioAula26.cs" />
+    <Compile Include="ExercicioAula27.cs" />
     <Compile Include="ExercicioAula3.cs" />
     <Compile Include="ExercicioAula4.cs" />
     <Compile Include="ExercicioAula5.cs" />
