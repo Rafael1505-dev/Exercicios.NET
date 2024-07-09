@@ -185,7 +185,7 @@ namespace Exercicios.NET
                         Exercicio30 exercicio30 = new Exercicio30();
                         exercicio30.ExercicioAula30();
                         break;
-                    /*case "31":
+                    case "31":
                         Exercicio31 exercicio31 = new Exercicio31();
                         exercicio31.ExercicioAula31();
                         break;
@@ -201,7 +201,7 @@ namespace Exercicios.NET
                         Exercicio34 exercicio34 = new Exercicio34();
                         exercicio34.ExercicioAula34();
                         break;
-                    case "35":
+                    /*case "35":
                         Exercicio35 exercicio35 = new Exercicio35();
                         exercicio35.ExercicioAula35();
                         break;
