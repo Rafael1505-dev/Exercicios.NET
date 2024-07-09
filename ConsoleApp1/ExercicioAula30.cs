@@ -15,18 +15,42 @@ namespace Exercicios.NET
 
             string[] vet = Console.ReadLine().Split(' ');
 
-            double a = double.Parse(vet[0]);
-            double b = double.Parse(vet[1]);
-            double c = double.Parse(vet[2]);
+            double[] vetNumber = Array.ConvertAll(vet, double.Parse);
 
-            double biggerNumber = Math.Max (a, Math.Max(b, c));
-            double lessThanNumber = Math.Min(a, Math.Min(b, c));
+            Array.Sort(vetNumber, (a, b) => b.CompareTo(a));
+
+            double A = vetNumber[0];
+            double B = vetNumber[1];
+            double C = vetNumber[2];
 
 
             Console.WriteLine("\n===== RESULTADO DO EXERCÍCIO =======\n\n");
 
-            if()
+            if(A >= (B + C))
+            {
+                Console.WriteLine("NAO FORMA TRIANGULO");
+            }
+            else if (Math.Pow(A,2) == (Math.Pow(B,2) + Math.Pow(C,2)))
+            {
+                Console.WriteLine("TRIANGULO RETANGULO");
+            }
+            else if (Math.Pow(A, 2) > (Math.Pow(B, 2) + Math.Pow(C, 2)))
+            {
+                Console.WriteLine("TRIANGULO OBTUSANGULO");
+            }
+            else if (Math.Pow(A, 2) < (Math.Pow(B, 2) + Math.Pow(C, 2))) 
+            {
+                Console.WriteLine("TRIANGULO ACUTANGULO");
+            }
 
+            if (A == B && B == C)
+            {
+                Console.WriteLine("TRIANGULO EQUILATERO");
+            }
+            else if (A == C || B == C || A == B) 
+            {
+                Console.WriteLine("TRIANGULO ISOSCELES");
+            }
         }
     }
 }

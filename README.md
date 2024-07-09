@@ -33,6 +33,21 @@ Este repositório contém exercícios de .NET organizados em diferentes classes.
 26. [Exercício 26](./ConsoleApp1/ExercicioAula26.cs)
 27. [Exercício 27](./ConsoleApp1/ExercicioAula27.cs)
 28. [Exercício 28](./ConsoleApp1/ExercicioAula28.cs)
+29. [Exercício 29](./ConsoleApp1/ExercicioAula29.cs)
+30. [Exercício 30](./ConsoleApp1/ExercicioAula30.cs)
+31. [Exercício 31](./ConsoleApp1/ExercicioAula31.cs)
+32. [Exercício 32](./ConsoleApp1/ExercicioAula32.cs)
+33. [Exercício 33](./ConsoleApp1/ExercicioAula33.cs)
+34. [Exercício 34](./ConsoleApp1/ExercicioAula34.cs)
+35. [Exercício 35](./ConsoleApp1/ExercicioAula35.cs)
+36. [Exercício 36](./ConsoleApp1/ExercicioAula36.cs)
+37. [Exercício 37](./ConsoleApp1/ExercicioAula37.cs)
+38. [Exercício 38](./ConsoleApp1/ExercicioAula38.cs)
+39. [Exercício 39](./ConsoleApp1/ExercicioAula39.cs)
+40. [Exercício 40](./ConsoleApp1/ExercicioAula40.cs)
+41. [Exercício 41](./ConsoleApp1/ExercicioAula41.cs)
+42. [Exercício 42](./ConsoleApp1/ExercicioAula42.cs)
+
 
 
 
@@ -151,4 +166,60 @@ Este repositório contém exercícios de .NET organizados em diferentes classes.
 ### Exercício 28
 
 ![Diagrama do Exercício 28](./Image/exe28.png)
+
+### Exercício 29
+
+![Diagrama do Exercício 29](./Image/exe29.png)
+
+### Exercício 30
+
+![Diagrama do Exercício 30](./Image/exe30.png)
+
+### Exercício 31
+
+![Diagrama do Exercício 31](./Image/exe31.png)
+
+### Exercício 32
+
+![Diagrama do Exercício 32](./Image/exe32.png)
+
+### Exercício 33
+
+![Diagrama do Exercício 33](./Image/exe33.png)
+
+### Exercício 34
+
+![Diagrama do Exercício 34](./Image/exe34.png)
+
+### Exercício 35
+
+![Diagrama do Exercício 35](./Image/exe35.png)
+
+### Exercício 36
+
+![Diagrama do Exercício 36](./Image/exe36.png)
+
+### Exercício 37
+
+![Diagrama do Exercício 37](./Image/exe37.png)
+
+### Exercício 38
+
+![Diagrama do Exercício 38](./Image/exe38.png)
+
+### Exercício 39
+
+![Diagrama do Exercício 39](./Image/exe39.png)
+
+### Exercício 40
+
+![Diagrama do Exercício 40](./Image/exe40.png)
+
+### Exercício 41
+
+![Diagrama do Exercício 41](./Image/exe41.png)
+
+### Exercício 42
+
+![Diagrama do Exercício 42](./Image/exe42.png)
 

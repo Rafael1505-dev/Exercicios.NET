@@ -201,7 +201,7 @@ namespace Exercicios.NET
                         Exercicio34 exercicio34 = new Exercicio34();
                         exercicio34.ExercicioAula34();
                         break;
-                    /*case "35":
+                    case "35":
                         Exercicio35 exercicio35 = new Exercicio35();
                         exercicio35.ExercicioAula35();
                         break;
@@ -232,7 +232,7 @@ namespace Exercicios.NET
                     case "42":
                         Exercicio42 exercicio42 = new Exercicio42();
                         exercicio42.ExercicioAula42();
-                        break;*/
+                        break;
                     case "0":
                         return; // Sai do programa
                     default:
