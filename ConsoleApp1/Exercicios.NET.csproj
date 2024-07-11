@@ -133,7 +133,14 @@
     <Compile Include="ExercicioAula41.cs" />
     <Compile Include="ExercicioAula42.cs" />
     <Compile Include="ExercicioAula43.cs" />
+    <Compile Include="ExercicioAula44.cs" />
+    <Compile Include="ExercicioAula45.cs" />
+    <Compile Include="ExercicioAula46.cs" />
+    <Compile Include="ExercicioAula47.cs" />
+    <Compile Include="ExercicioAula48.cs" />
+    <Compile Include="ExercicioAula49.cs" />
     <Compile Include="ExercicioAula5.cs" />
+    <Compile Include="ExercicioAula50.cs" />
     <Compile Include="ExercicioAula6.cs" />
     <Compile Include="ExercicioAula7.cs" />
     <Compile Include="ExercicioAula8.cs" />
