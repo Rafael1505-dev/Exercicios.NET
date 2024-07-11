@@ -10,11 +10,20 @@ namespace Exercicios.NET
     {
         public void ExercicioAula43()
         {
-            Console.WriteLine("\n===== Exercício Lanche em C# =======\n\n");
+            Console.WriteLine("\n===== Exercício Senha Fixa em C# =======\n\n");
             Console.WriteLine("Informe abaixo as informações do exercício: ");
 
+            int password = int.Parse(Console.ReadLine());
 
             Console.WriteLine("\n===== RESULTADO DO EXERCÍCIO =======\n\n");
+
+            while (password != 2002)
+            {
+                Console.WriteLine("Senha Invalida");
+                password = int.Parse(Console.ReadLine());
+            }
+
+            Console.WriteLine("Acesso Permitido");
 
         }
     }

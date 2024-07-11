@@ -58,6 +58,24 @@ namespace Exercicios.NET
                 Console.WriteLine("40. Executar Exercicio 40");
                 Console.WriteLine("41. Executar Exercicio 41");
                 Console.WriteLine("42. Executar Exercicio 42");
+                Console.WriteLine("43. Executar Exercicio 43");
+                Console.WriteLine("44. Executar Exercicio 44");
+                Console.WriteLine("45. Executar Exercicio 45");
+                Console.WriteLine("46. Executar Exercicio 46");
+                Console.WriteLine("47. Executar Exercicio 47");
+                Console.WriteLine("48. Executar Exercicio 48");
+                Console.WriteLine("49. Executar Exercicio 49");
+                Console.WriteLine("50. Executar Exercicio 50");
+                Console.WriteLine("51. Executar Exercicio 51");
+                Console.WriteLine("52. Executar Exercicio 52");
+                Console.WriteLine("53. Executar Exercicio 53");
+                Console.WriteLine("54. Executar Exercicio 54");
+                Console.WriteLine("55. Executar Exercicio 55");
+                Console.WriteLine("56. Executar Exercicio 56");
+                Console.WriteLine("57. Executar Exercicio 57");
+                Console.WriteLine("58. Executar Exercicio 58");
+                Console.WriteLine("59. Executar Exercicio 59");
+                Console.WriteLine("60. Executar Exercicio 60");
                 Console.WriteLine("0. Sair");
                 Console.Write("Escolha uma opção: ");
 
@@ -233,6 +251,78 @@ namespace Exercicios.NET
                         Exercicio42 exercicio42 = new Exercicio42();
                         exercicio42.ExercicioAula42();
                         break;
+                    case "43":
+                        Exercicio43 exercicio43 = new Exercicio43();
+                        exercicio43.ExercicioAula43();
+                        break;
+                    case "44":
+                        Exercicio44 exercicio44 = new Exercicio44();
+                        exercicio44.ExercicioAula44();
+                        break;
+                    case "45":
+                        Exercicio45 exercicio45 = new Exercicio45();
+                        exercicio45.ExercicioAula45();
+                        break;
+                    case "46":
+                        Exercicio46 exercicio46 = new Exercicio46();
+                        exercicio46.ExercicioAula46();
+                        break;
+                    case "47":
+                        Exercicio47 exercicio47 = new Exercicio47();
+                        exercicio47.ExercicioAula47();
+                        break;
+                    case "48":
+                        Exercicio48 exercicio48 = new Exercicio48();
+                        exercicio48.ExercicioAula48();
+                        break;
+                    case "49":
+                        Exercicio49 exercicio49 = new Exercicio49();
+                        exercicio49.ExercicioAula49();
+                        break;
+                    case "50":
+                        Exercicio50 exercicio50 = new Exercicio50();
+                        exercicio50.ExercicioAula50();
+                        break;
+                   /* case "51":
+                        Exercicio51 exercicio51 = new Exercicio51();
+                        exercicio51.ExercicioAula51();
+                        break;
+                    case "52":
+                        Exercicio52 exercicio52 = new Exercicio52();
+                        exercicio52.ExercicioAula52();
+                        break;
+                    case "53":
+                        Exercicio53 exercicio53 = new Exercicio53();
+                        exercicio53.ExercicioAula53();
+                        break;
+                    case "54":
+                        Exercicio54 exercicio54 = new Exercicio54();
+                        exercicio54.ExercicioAula54();
+                        break;
+                    case "55":
+                        Exercicio55 exercicio55 = new Exercicio55();
+                        exercicio55.ExercicioAula55();
+                        break;
+                    case "56":
+                        Exercicio56 exercicio56 = new Exercicio56();
+                        exercicio56.ExercicioAula56();
+                        break;
+                    case "57":
+                        Exercicio57 exercicio57 = new Exercicio57();
+                        exercicio57.ExercicioAula57();
+                        break;
+                    case "58":
+                        Exercicio58 exercicio58 = new Exercicio58();
+                        exercicio58.ExercicioAula58();
+                        break;
+                    case "59":
+                        Exercicio59 exercicio59 = new Exercicio59();
+                        exercicio59.ExercicioAula59();
+                        break;
+                    case "60":
+                        Exercicio60 exercicio60 = new Exercicio60();
+                        exercicio60.ExercicioAula60();
+                        break;*/
                     case "0":
                         return; // Sai do programa
                     default:
