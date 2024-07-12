@@ -141,6 +141,15 @@
     <Compile Include="ExercicioAula49.cs" />
     <Compile Include="ExercicioAula5.cs" />
     <Compile Include="ExercicioAula50.cs" />
+    <Compile Include="ExercicioAula51.cs" />
+    <Compile Include="ExercicioAula52.cs" />
+    <Compile Include="ExercicioAula53.cs" />
+    <Compile Include="ExercicioAula54.cs" />
+    <Compile Include="ExercicioAula55.cs" />
+    <Compile Include="ExercicioAula56.cs" />
+    <Compile Include="ExercicioAula57.cs" />
+    <Compile Include="ExercicioAula58.cs" />
+    <Compile Include="ExercicioAula59.cs" />
     <Compile Include="ExercicioAula6.cs" />
     <Compile Include="ExercicioAula7.cs" />
     <Compile Include="ExercicioAula8.cs" />
