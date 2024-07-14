@@ -62,6 +62,25 @@ Este repositório contém exercícios de .NET organizados em diferentes classes.
 55. [Exercício 55](./ConsoleApp1/ExercicioAula55.cs)
 56. [Exercício 56](./ConsoleApp1/ExercicioAula56.cs)
 57. [Exercício 57](./ConsoleApp1/ExercicioAula57.cs)
+58. [Exercício 58](./ConsoleApp1/ExercicioAula58.cs)
+59. [Exercício 59](./ConsoleApp1/ExercicioAula59.cs)
+60. [Exercício 60](./ConsoleApp1/ExercicioAula60.cs)
+61. [Exercício 61](./ConsoleApp1/ExercicioAula61.cs)
+62. [Exercício 62](./ConsoleApp1/ExercicioAula62.cs)
+63. [Exercício 63](./ConsoleApp1/ExercicioAula63.cs)
+64. [Exercício 64](./ConsoleApp1/ExercicioAula64.cs)
+65. [Exercício 65](./ConsoleApp1/ExercicioAula65.cs)
+66. [Exercício 66](./ConsoleApp1/ExercicioAula66.cs)
+67. [Exercício 67](./ConsoleApp1/ExercicioAula67.cs)
+68. [Exercício 68](./ConsoleApp1/ExercicioAula68.cs)
+69. [Exercício 69](./ConsoleApp1/ExercicioAula69.cs)
+70. [Exercício 70](./ConsoleApp1/ExercicioAula70.cs)
+71. [Exercício 71](./ConsoleApp1/ExercicioAula71.cs)
+72. [Exercício 72](./ConsoleApp1/ExercicioAula72.cs)
+73. [Exercício 73](./ConsoleApp1/ExercicioAula73.cs)
+74. [Exercício 74](./ConsoleApp1/ExercicioAula74.cs)
+75. [Exercício 75](./ConsoleApp1/ExercicioAula75.cs)
+76. [Exercício 76](./ConsoleApp1/ExercicioAula76.cs)
 
 
 
@@ -295,6 +314,82 @@ Este repositório contém exercícios de .NET organizados em diferentes classes.
 ### Exercício 57
 
 ![Diagrama do Exercício 57](./Image/exe57.png)
+
+### Exercício 58
+
+![Diagrama do Exercício 58](./Image/exe58.png)
+
+### Exercício 59
+
+![Diagrama do Exercício 59](./Image/exe59.png)
+
+### Exercício 60
+
+![Diagrama do Exercício 60](./Image/exe60.png)
+
+### Exercício 61
+
+![Diagrama do Exercício 61](./Image/exe61.png)
+
+### Exercício 62
+
+![Diagrama do Exercício 62](./Image/exe62.png)
+
+### Exercício 63
+
+![Diagrama do Exercício 63](./Image/exe63.png)
+
+### Exercício 64
+
+![Diagrama do Exercício 64](./Image/exe64.png)
+
+### Exercício 65
+
+![Diagrama do Exercício 65](./Image/exe65.png)
+
+### Exercício 66
+
+![Diagrama do Exercício 66](./Image/exe66.png)
+
+### Exercício 67
+
+![Diagrama do Exercício 67](./Image/exe67.png)
+
+### Exercício 68
+
+![Diagrama do Exercício 68](./Image/exe68.png)
+
+### Exercício 69
+
+![Diagrama do Exercício 69](./Image/exe69.png)
+
+### Exercício 70
+
+![Diagrama do Exercício 70](./Image/exe70.png)
+
+### Exercício 71
+
+![Diagrama do Exercício 71](./Image/exe71.png)
+
+### Exercício 72
+
+![Diagrama do Exercício 72](./Image/exe72.png)
+
+### Exercício 73
+
+![Diagrama do Exercício 73](./Image/exe73.png)
+
+### Exercício 74
+
+![Diagrama do Exercício 74](./Image/exe74.png)
+
+### Exercício 75
+
+![Diagrama do Exercício 75](./Image/exe75.png)
+
+### Exercício 76
+
+![Diagrama do Exercício 76](./Image/exe76.png)
 
 
 
