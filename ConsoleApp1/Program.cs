@@ -96,6 +96,27 @@ namespace Exercicios.NET
                 Console.WriteLine("78. Executar Exercicio 78");
                 Console.WriteLine("79. Executar Exercicio 79");
                 Console.WriteLine("80. Executar Exercicio 80");
+                Console.WriteLine("81. Executar Exercicio 81");
+                Console.WriteLine("82. Executar Exercicio 82");
+                Console.WriteLine("83. Executar Exercicio 83");
+                Console.WriteLine("84. Executar Exercicio 84");
+                Console.WriteLine("85. Executar Exercicio 85");
+                /*Console.WriteLine("86. Executar Exercicio 86");
+                Console.WriteLine("87. Executar Exercicio 87");
+                Console.WriteLine("88. Executar Exercicio 88");
+                Console.WriteLine("89. Executar Exercicio 89");
+                Console.WriteLine("90. Executar Exercicio 90");
+                Console.WriteLine("91. Executar Exercicio 91");
+                Console.WriteLine("92. Executar Exercicio 92");
+                Console.WriteLine("93. Executar Exercicio 93");
+                Console.WriteLine("94. Executar Exercicio 94");
+                Console.WriteLine("95. Executar Exercicio 95");
+                Console.WriteLine("96. Executar Exercicio 96");
+                Console.WriteLine("97. Executar Exercicio 97");
+                Console.WriteLine("98. Executar Exercicio 98");
+                Console.WriteLine("99. Executar Exercicio 99");
+                Console.WriteLine("100. Executar Exercicio 100");*/
+
                 Console.WriteLine("0. Sair");
                 Console.Write("Escolha uma opção: ");
 
@@ -407,7 +428,7 @@ namespace Exercicios.NET
                         Exercicio76 exercicio76 = new Exercicio76();
                         exercicio76.ExercicioAula76();
                         break;
-                    /*case "77":
+                    case "77":
                         Exercicio77 exercicio77 = new Exercicio77();
                         exercicio77.ExercicioAula77();
                         break;
@@ -422,6 +443,86 @@ namespace Exercicios.NET
                     case "80":
                         Exercicio80 exercicio80 = new Exercicio80();
                         exercicio80.ExercicioAula80();
+                        break;
+                    case "81":
+                        Exercicio81 exercicio81 = new Exercicio81();
+                        exercicio81.ExercicioAula81();
+                        break;
+                    case "82":
+                        Exercicio82 exercicio82 = new Exercicio82();
+                        exercicio82.ExercicioAula82();
+                        break;
+                    case "83":
+                        Exercicio83 exercicio83 = new Exercicio83();
+                        exercicio83.ExercicioAula83();
+                        break;
+                    case "84":
+                        Exercicio84 exercicio84 = new Exercicio84();
+                        exercicio84.ExercicioAula84();
+                        break;
+                    case "85":
+                        Exercicio85 exercicio85 = new Exercicio85();
+                        exercicio85.ExercicioAula85();
+                        break;
+                    /*case "86":
+                        Exercicio86 exercicio86 = new Exercicio86();
+                        exercicio86.ExercicioAula86();
+                        break;
+                    case "87":
+                        Exercicio87 exercicio87 = new Exercicio87();
+                        exercicio87.ExercicioAula87();
+                        break;
+                    case "88":
+                        Exercicio88 exercicio88 = new Exercicio88();
+                        exercicio88.ExercicioAula88();
+                        break;
+                    case "89":
+                        Exercicio89 exercicio89 = new Exercicio89();
+                        exercicio89.ExercicioAula89();
+                        break;
+                    case "90":
+                        Exercicio90 exercicio90 = new Exercicio90();
+                        exercicio90.ExercicioAula90();
+                        break;
+                    case "91":
+                        Exercicio91 exercicio91 = new Exercicio91();
+                        exercicio91.ExercicioAula91();
+                        break;
+                    case "92":
+                        Exercicio92 exercicio92 = new Exercicio92();
+                        exercicio92.ExercicioAula92();
+                        break;
+                    case "93":
+                        Exercicio93 exercicio93 = new Exercicio93();
+                        exercicio93.ExercicioAula93();
+                        break;
+                    case "94":
+                        Exercicio94 exercicio94 = new Exercicio94();
+                        exercicio94.ExercicioAula94();
+                        break;
+                    case "95":
+                        Exercicio95 exercicio95 = new Exercicio95();
+                        exercicio95.ExercicioAula95();
+                        break;
+                    case "96":
+                        Exercicio96 exercicio96 = new Exercicio96();
+                        exercicio96.ExercicioAula96();
+                        break;
+                    case "97":
+                        Exercicio97 exercicio97 = new Exercicio97();
+                        exercicio97.ExercicioAula97();
+                        break;
+                    case "98":
+                        Exercicio98 exercicio98 = new Exercicio98();
+                        exercicio98.ExercicioAula98();
+                        break;
+                    case "99":
+                        Exercicio99 exercicio99 = new Exercicio99();
+                        exercicio99.ExercicioAula99();
+                        break;
+                    case "100":
+                        Exercicio100 exercicio100 = new Exercicio100();
+                        exercicio100.ExercicioAula100();
                         break;*/
                     case "0":
                         return; // Sai do programa
