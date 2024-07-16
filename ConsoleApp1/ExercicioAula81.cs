@@ -6,31 +6,32 @@ using System.Threading.Tasks;
 
 namespace Exercicios.NET
 {
-    class Exercicio78
+    class Exercicio81
     {
-        public void ExercicioAula78()
+        public void ExercicioAula81()
         {
-            Console.WriteLine("\n===== Exercício Vetores 2 em C# =======\n\n");
+            Console.WriteLine("\n===== Exercício Vetores 5 em C# =======\n\n");
             Console.WriteLine("Informe abaixo as informações do exercício: ");
 
-            int indexArray = int.Parse(Console.ReadLine()), counter = 0 ;
+            int indexArray = int.Parse(Console.ReadLine()), counter = 0, sum = 0;
+            double average = 0;
             int[] array = new int[indexArray];
 
             string[] vet = Console.ReadLine().Split(' ');
 
             array = Array.ConvertAll(vet, int.Parse);
 
-
             for (int i = 0; i < array.Length; i++)
             {
                 if (array[i] % 2 == 0)
                 {
-                    Console.Write(array[i] + " ");
+                    sum += array[i];
                     counter++;
                 }
             }
-            Console.WriteLine();
-            Console.WriteLine(counter.ToString());
+
+            average = (double)sum / counter;
+            Console.WriteLine(average.ToString("F1"));
         }
     }
 }

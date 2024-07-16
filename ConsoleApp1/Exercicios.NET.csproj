@@ -174,6 +174,12 @@
     <Compile Include="ExercicioAula79.cs" />
     <Compile Include="ExercicioAula8.cs" />
     <Compile Include="ExercicioAula80.cs" />
+    <Compile Include="ExercicioAula81.cs" />
+    <Compile Include="ExercicioAula82.cs" />
+    <Compile Include="ExercicioAula83.cs" />
+    <Compile Include="ExercicioAula84.cs" />
+    <Compile Include="ExercicioAula85.cs" />
+    <Compile Include="ExercicioAula86.cs" />
     <Compile Include="ExercicioAula9.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

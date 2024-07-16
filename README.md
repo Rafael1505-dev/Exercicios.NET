@@ -81,6 +81,15 @@ Este repositório contém exercícios de .NET organizados em diferentes classes.
 74. [Exercício 74](./ConsoleApp1/ExercicioAula74.cs)
 75. [Exercício 75](./ConsoleApp1/ExercicioAula75.cs)
 76. [Exercício 76](./ConsoleApp1/ExercicioAula76.cs)
+77. [Exercício 77](./ConsoleApp1/ExercicioAula77.cs)
+78. [Exercício 78](./ConsoleApp1/ExercicioAula78.cs)
+79. [Exercício 79](./ConsoleApp1/ExercicioAula79.cs)
+80. [Exercício 80](./ConsoleApp1/ExercicioAula80.cs)
+81. [Exercício 81](./ConsoleApp1/ExercicioAula81.cs)
+82. [Exercício 82](./ConsoleApp1/ExercicioAula82.cs)
+83. [Exercício 83](./ConsoleApp1/ExercicioAula83.cs)
+84. [Exercício 84](./ConsoleApp1/ExercicioAula84.cs)
+85. [Exercício 85](./ConsoleApp1/ExercicioAula85.cs)
 
 
 
@@ -391,5 +400,40 @@ Este repositório contém exercícios de .NET organizados em diferentes classes.
 
 ![Diagrama do Exercício 76](./Image/exe76.png)
 
+### Exercício 77
+
+![Diagrama do Exercício 77](./Image/exe77.png)
+
+### Exercício 78
+
+![Diagrama do Exercício 78](./Image/exe78.png)
+
+### Exercício 79
+
+![Diagrama do Exercício 79](./Image/exe79.png)
+
+### Exercício 80
+
+![Diagrama do Exercício 80](./Image/exe80.png)
+
+### Exercício 81
+
+![Diagrama do Exercício 81](./Image/exe81.png)
+
+### Exercício 82
+
+![Diagrama do Exercício 82](./Image/exe82.png)
+
+### Exercício 83
+
+![Diagrama do Exercício 83](./Image/exe83.png)
+
+### Exercício 84
+
+![Diagrama do Exercício 84](./Image/exe84.png)
+
+### Exercício 85
+
+![Diagrama do Exercício 85](./Image/exe85.png)
 
 
