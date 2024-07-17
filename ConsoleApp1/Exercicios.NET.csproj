@@ -180,7 +180,13 @@
     <Compile Include="ExercicioAula84.cs" />
     <Compile Include="ExercicioAula85.cs" />
     <Compile Include="ExercicioAula86.cs" />
+    <Compile Include="ExercicioAula87.cs" />
+    <Compile Include="ExercicioAula88.cs" />
+    <Compile Include="ExercicioAula89.cs" />
     <Compile Include="ExercicioAula9.cs" />
+    <Compile Include="ExercicioAula90.cs" />
+    <Compile Include="ExercicioAula91.cs" />
+    <Compile Include="ExercicioAula92.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

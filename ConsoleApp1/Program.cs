@@ -101,14 +101,14 @@ namespace Exercicios.NET
                 Console.WriteLine("83. Executar Exercicio 83");
                 Console.WriteLine("84. Executar Exercicio 84");
                 Console.WriteLine("85. Executar Exercicio 85");
-                /*Console.WriteLine("86. Executar Exercicio 86");
+                Console.WriteLine("86. Executar Exercicio 86");
                 Console.WriteLine("87. Executar Exercicio 87");
                 Console.WriteLine("88. Executar Exercicio 88");
                 Console.WriteLine("89. Executar Exercicio 89");
                 Console.WriteLine("90. Executar Exercicio 90");
                 Console.WriteLine("91. Executar Exercicio 91");
                 Console.WriteLine("92. Executar Exercicio 92");
-                Console.WriteLine("93. Executar Exercicio 93");
+                /*Console.WriteLine("93. Executar Exercicio 93");
                 Console.WriteLine("94. Executar Exercicio 94");
                 Console.WriteLine("95. Executar Exercicio 95");
                 Console.WriteLine("96. Executar Exercicio 96");
@@ -464,7 +464,7 @@ namespace Exercicios.NET
                         Exercicio85 exercicio85 = new Exercicio85();
                         exercicio85.ExercicioAula85();
                         break;
-                    /*case "86":
+                    case "86":
                         Exercicio86 exercicio86 = new Exercicio86();
                         exercicio86.ExercicioAula86();
                         break;
@@ -492,7 +492,7 @@ namespace Exercicios.NET
                         Exercicio92 exercicio92 = new Exercicio92();
                         exercicio92.ExercicioAula92();
                         break;
-                    case "93":
+                    /*case "93":
                         Exercicio93 exercicio93 = new Exercicio93();
                         exercicio93.ExercicioAula93();
                         break;
