@@ -187,6 +187,9 @@
     <Compile Include="ExercicioAula90.cs" />
     <Compile Include="ExercicioAula91.cs" />
     <Compile Include="ExercicioAula92.cs" />
+    <Compile Include="ExercicioAula93.cs" />
+    <Compile Include="ExercicioAula94.cs" />
+    <Compile Include="ExercicioAula95.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
