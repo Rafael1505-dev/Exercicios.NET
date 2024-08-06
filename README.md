@@ -1,12 +1,13 @@
 # Exercícios .NET POO
 
-Este repositório contém exercícios de .NET organizados em diferentes classes. Cada exercício está em sua própria pasta e contém o enunciado e o código-fonte necessário resolvidos pelo autor.
+Este repositório contém uma coleção de exercícios de .NET focados em Programação Orientada a Objetos (POO). Cada exercício está organizado em sua própria pasta e inclui o enunciado e o código-fonte resolvido pelo autor. O objetivo é fornecer uma prática abrangente e gradual para aprimorar suas habilidades em .NET e POO.
 
-## Códigos dos Exercícios
+## Estrutura dos Exercícios
 
-0. [Menu dos exercícios](./ConsoleApp1/Program.cs)
-1. [Exercício 1](./ConsoleApp1/ExercicioAula1.cs)
+Cada exercício está localizado em uma pasta separada dentro do projeto principal. A estrutura é a seguinte:
 
+0. [Menu dos exercícios](./ConsoleApp1/Program.cs) - Um menu interativo para acessar os exercícios.
+1. [Exercício 1](./ConsoleApp1/ExercicioAula1.cs) - Exercício de introdução à POO em .NET.
 
 ## Enunciados Propostos 
 
@@ -14,5 +15,14 @@ Este repositório contém exercícios de .NET organizados em diferentes classes.
 
 ![Diagrama do Exercício 1](./Image/exe1.png)
 
+## Outros Recursos
 
+Para exercícios adicionais sobre lógica de programação, consulte o arquivo [README - Lógica de Programação](./README%20-%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o).
 
+## Instruções de Uso
+
+Para clonar o repositório e executar os exercícios localmente, siga os passos abaixo:
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/exercicios-dotnet-poo.git
