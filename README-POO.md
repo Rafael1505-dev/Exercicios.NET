@@ -19,7 +19,15 @@ Cada exercício está localizado em uma pasta separada dentro do projeto princip
 
 ### Exercício 1
 
-![Enunciado do Exercício 1](./Image/exe1.png)
+![Enunciado do Exercício 1](./Image/exePOO1.png)
+
+![Diagrama do Exercício 1](./Image/exe1.png)
+
+1. [Exercício 1](./ConsoleApp1/ExercicioAula1.cs) - Exercício de introdução à POO em .NET.
+
+### Exercício 2
+
+![Enunciado do Exercício 2](./Image/exePOO2.png)
 
 ![Diagrama do Exercício 1](./Image/exe1.png)
 
