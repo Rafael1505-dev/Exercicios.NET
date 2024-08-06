@@ -23,13 +23,17 @@ Cada exercício está localizado em uma pasta separada dentro do projeto princip
 
 ![Diagrama do Exercício 1](./Image/exe1.png)
 
-1. [Exercício 1](./ConsoleApp1/ExercicioAula1.cs) - Exercício de introdução à POO em .NET.
+* [Exercício 1](./OrientacaoObjetos.NET/ProgramPOO1.cs) - Classe Program do Exercício
+* [Exercício 1](./OrientacaoObjetos.NET/PersonEx1.cs) - Classe Pessoa do Exercício
+
 
 ### Exercício 2
 
 ![Enunciado do Exercício 2](./Image/exePOO2.png)
 
-![Diagrama do Exercício 1](./Image/exe1.png)
+![Diagrama do Exercício 2](./Image/exe1.png)
 
-1. [Exercício 1](./ConsoleApp1/ExercicioAula1.cs) - Exercício de introdução à POO em .NET.
+* [Exercício 2](./POO.NET02/ProgramPOO2.cs) - Classe Program do Exercício
+* [Exercício 2](./POO.NET02/EmployeeEx2.cs) - Classe Funcionáario do Exercício
+
 
