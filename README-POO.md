@@ -13,6 +13,7 @@ Cada exercício está localizado em uma pasta separada dentro do projeto princip
 ## Menu de exercícios 
 
 * [Exercício 1](#exercício-1)
+* [Exercício 2](#exercício-2)
 
 
 ## Enunciados Propostos 
@@ -23,8 +24,8 @@ Cada exercício está localizado em uma pasta separada dentro do projeto princip
 
 ![Diagrama do Exercício 1](./Image/exe1.png)
 
-* [Exercício 1](./OrientacaoObjetos.NET/ProgramPOO1.cs) - Classe Program do Exercício
-* [Exercício 1](./OrientacaoObjetos.NET/PersonEx1.cs) - Classe Pessoa do Exercício
+* [Program.cs](./OrientacaoObjetos.NET/ProgramPOO1.cs) - Classe Program do Exercício
+* [PersonEx1.cs](./OrientacaoObjetos.NET/PersonEx1.cs) - Classe Pessoa do Exercício
 
 
 ### Exercício 2
@@ -33,7 +34,6 @@ Cada exercício está localizado em uma pasta separada dentro do projeto princip
 
 ![Diagrama do Exercício 2](./Image/exe1.png)
 
-* [Exercício 2](./POO.NET02/ProgramPOO2.cs) - Classe Program do Exercício
-* [Exercício 2](./POO.NET02/EmployeeEx2.cs) - Classe Funcionáario do Exercício
-
+* [Program.cs](./POO.NET02/ProgramPOO2.cs) 
+* [EmployeeEx2.cs](./POO.NET02/EmployeeEx2.cs) 
 
