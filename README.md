@@ -17,7 +17,7 @@ Cada exercício está localizado em uma pasta separada dentro do projeto princip
 
 ## Outros Recursos
 
-Para exercícios adicionais sobre lógica de programação, consulte o arquivo [README - Lógica de Programação](./README%20-%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o).
+Para exercícios adicionais sobre lógica de programação, consulte o arquivo [README - Lógica de Programação](README-LogicaDeProgramacao.md).
 
 ## Instruções de Uso
 
