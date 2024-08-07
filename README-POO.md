@@ -40,10 +40,21 @@ Cada exercício está localizado em uma pasta separada dentro do projeto princip
 
 ### Exercício 3
 
-![Enunciado do Exercício 3](./Image/exePOO2.png)
+![Enunciado do Exercício 3](./Image/exePOO3.png)
 
 ![Diagrama do Exercício 3](./Image/soon.png)
 
 * [Program.cs](./POO.NET02/ProgramPOO3.cs) 
 * [RectangleEx3.cs](./POO.NET02/RectangleEx3.cs)
+
+### Exercício 4
+
+![Enunciado do Exercício 3](./Image/exePOO4.png)
+
+![Diagrama do Exercício 3](./Image/soon.png)
+
+* [Program.cs](./POO.NET02/ProgramPOO4.cs) 
+* [RectangleEx3.cs](./POO.NET02/EmployeeEx4.cs)
+
+
 
