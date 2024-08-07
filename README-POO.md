@@ -15,6 +15,8 @@ Cada exercício está localizado em uma pasta separada dentro do projeto princip
 * [Exercício 1](#exercício-1)
 * [Exercício 2](#exercício-2)
 * [Exercício 3](#exercício-3)
+* [Exercício 4](#exercício-4)
+
 
 
 ## Enunciados Propostos 
@@ -44,8 +46,8 @@ Cada exercício está localizado em uma pasta separada dentro do projeto princip
 
 ![Diagrama do Exercício 3](./Image/soon.png)
 
-* [Program.cs](./POO.NET02/ProgramPOO3.cs) 
-* [RectangleEx3.cs](./POO.NET02/RectangleEx3.cs)
+* [Program.cs](./POO.NET03/ProgramPOO3.cs) 
+* [RectangleEx3.cs](./POO.NET03/RectangleEx3.cs)
 
 ### Exercício 4
 
@@ -53,8 +55,8 @@ Cada exercício está localizado em uma pasta separada dentro do projeto princip
 
 ![Diagrama do Exercício 3](./Image/soon.png)
 
-* [Program.cs](./POO.NET02/ProgramPOO4.cs) 
-* [RectangleEx3.cs](./POO.NET02/EmployeeEx4.cs)
+* [Program.cs](./POO.NET04/ProgramPOO4.cs) 
+* [RectangleEx3.cs](./POO.NET04/EmployeeEx4.cs)
 
 
 
