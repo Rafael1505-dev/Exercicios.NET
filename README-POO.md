@@ -56,7 +56,7 @@ Cada exercício está localizado em uma pasta separada dentro do projeto princip
 ![Diagrama do Exercício 3](./Image/soon.png)
 
 * [Program.cs](./POO.NET04/ProgramPOO4.cs) 
-* [RectangleEx3.cs](./POO.NET04/EmployeeEx4.cs)
+* [EmployeeEx4.cs](./POO.NET04/EmployeeEx4.cs)
 
 
 
