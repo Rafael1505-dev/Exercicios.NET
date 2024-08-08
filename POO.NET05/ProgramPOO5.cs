@@ -26,7 +26,7 @@ namespace POO.NET05
 
             Console.WriteLine("NOTA FINAL = " + student.FinalGrade().ToString("F2",culture));
             
-            if(student.ResultFinal() == true )
+            if(student.ResultFinal())
             {
                 Console.WriteLine("APROVADO");
             }
