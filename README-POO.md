@@ -26,7 +26,7 @@ Cada exercício está localizado em uma pasta separada dentro do projeto princip
 
 ![Enunciado do Exercício 1](./Image/exePOO1.png)
 
-![Diagrama do Exercício 1](./Image/soon.png)
+![Diagrama do Exercício 1](./Image/UMLex1.png)
 
 * [Program.cs](./OrientacaoObjetos.NET/ProgramPOO1.cs) - Classe Program do Exercício
 * [PersonEx1.cs](./OrientacaoObjetos.NET/PersonEx1.cs) - Classe Pessoa do Exercício
@@ -36,7 +36,7 @@ Cada exercício está localizado em uma pasta separada dentro do projeto princip
 
 ![Enunciado do Exercício 2](./Image/exePOO2.png)
 
-![Diagrama do Exercício 2](./Image/soon.png)
+![Diagrama do Exercício 2](./Image/UMLex2.png)
 
 * [Program.cs](./POO.NET02/ProgramPOO2.cs) 
 * [EmployeeEx2.cs](./POO.NET02/EmployeeEx2.cs)
@@ -59,7 +59,7 @@ Cada exercício está localizado em uma pasta separada dentro do projeto princip
 
 ![Enunciado do Exercício 5](./Image/exePOO5.png)
 
-![Diagrama do Exercício 5](./Image/soon.png)
+![Diagrama do Exercício 5](./Image/UMLex5.png)
 
 * [Program.cs](./POO.NET05/ProgramPOO5.cs) 
 * [StudentEx5.cs](./POO.NET05/StudentEx5.cs)
