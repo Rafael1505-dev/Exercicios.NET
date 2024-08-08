@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "POO.NET03", "POO.NET03\POO.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO.NET04", "POO.NET4\POO.NET04.csproj", "{EC474A3E-8ACE-4B32-91EB-7CACAD867577}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO.NET05", "POO.NET05\POO.NET05.csproj", "{5D8DFCDE-E03C-4544-A5B6-D563C1EF7944}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{EC474A3E-8ACE-4B32-91EB-7CACAD867577}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC474A3E-8ACE-4B32-91EB-7CACAD867577}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC474A3E-8ACE-4B32-91EB-7CACAD867577}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D8DFCDE-E03C-4544-A5B6-D563C1EF7944}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D8DFCDE-E03C-4544-A5B6-D563C1EF7944}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D8DFCDE-E03C-4544-A5B6-D563C1EF7944}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D8DFCDE-E03C-4544-A5B6-D563C1EF7944}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
