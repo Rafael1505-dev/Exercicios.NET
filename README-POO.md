@@ -17,6 +17,7 @@ Cada exercício está localizado em uma pasta separada dentro do projeto princip
 * [Exercício 3](#exercício-3)
 * [Exercício 4](#exercício-4)
 * [Exercício 5](#exercício-5)
+* [Exercício 6](#exercício-6)
 
 
 
@@ -63,6 +64,15 @@ Cada exercício está localizado em uma pasta separada dentro do projeto princip
 
 * [Program.cs](./POO.NET05/ProgramPOO5.cs) 
 * [StudentEx5.cs](./POO.NET05/StudentEx5.cs)
+
+### Exercício 6
+
+![Enunciado do Exercício 6](./Image/exePOO6.png)
+
+![Diagrama do Exercício 6](./Image/UMLex6.png)
+
+* [Program.cs](./POO.NET06/ProgramPOO6.cs) 
+* [CurrencyConverterEx6.cs](./POO.NET06/CurrencyConverterEx6.cs)
 
 
 
