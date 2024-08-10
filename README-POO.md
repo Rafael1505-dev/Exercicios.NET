@@ -18,7 +18,7 @@ Cada exercício está localizado em uma pasta separada dentro do projeto princip
 * [Exercício 4](#exercício-4)
 * [Exercício 5](#exercício-5)
 * [Exercício 6](#exercício-6)
-* [Exercício 6](#exercício-7)
+* [Exercício 7](#exercício-7)
 
 
 ## Enunciados Propostos 
