@@ -17,7 +17,9 @@ Cada exercício está localizado em uma pasta separada dentro do projeto princip
 * [Exercício 3](#exercício-3)
 * [Exercício 4](#exercício-4)
 * [Exercício 5](#exercício-5)
-
+* [Exercício 6](#exercício-6)
+* [Exercício 7](#exercício-7)
+* [Exercício 8](#exercício-8)
 
 
 ## Enunciados Propostos 
@@ -64,5 +66,31 @@ Cada exercício está localizado em uma pasta separada dentro do projeto princip
 * [Program.cs](./POO.NET05/ProgramPOO5.cs) 
 * [StudentEx5.cs](./POO.NET05/StudentEx5.cs)
 
+### Exercício 6
 
+![Enunciado do Exercício 6](./Image/exePOO6.png)
+
+![Diagrama do Exercício 6](./Image/UMLex6.png)
+
+* [Program.cs](./POO.NET06/ProgramPOO6.cs) 
+* [CurrencyConverterEx6.cs](./POO.NET06/CurrencyConverterEx6.cs)
+
+
+### Exercício 7
+
+![Enunciado do Exercício 7](./Image/exePOO7.png)
+
+![Diagrama do Exercício 7](./Image/UMLex7.png)
+
+* [Program.cs](./POO.NET07/ProgramPOO7.cs) 
+* [BankAccountEx7.cs](./POO.NET07/BankAccountEx7.cs)
+
+### Exercício 8
+
+![Enunciado do Exercício 8](./Image/exePOO8.png)
+
+![Diagrama do Exercício 8](./Image/UMLex8.png)
+
+* [Program.cs](./POO.NET08/ProgramPOO8.cs) 
+* [GuestEx8.cs](./POO.NET08/GuestEx8.cs)
 
