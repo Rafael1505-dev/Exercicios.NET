@@ -111,8 +111,8 @@ namespace Exercicios.NET
                 Console.WriteLine("93. Executar Exercicio 93");
                 Console.WriteLine("94. Executar Exercicio 94");
                 Console.WriteLine("95. Executar Exercicio 95");
-                /*Console.WriteLine("96. Executar Exercicio 96");
-                Console.WriteLine("97. Executar Exercicio 97");
+                Console.WriteLine("96. Executar Exercicio 96");
+                /*Console.WriteLine("97. Executar Exercicio 97");
                 Console.WriteLine("98. Executar Exercicio 98");
                 Console.WriteLine("99. Executar Exercicio 99");
                 Console.WriteLine("100. Executar Exercicio 100");*/
@@ -504,11 +504,11 @@ namespace Exercicios.NET
                         Exercicio95 exercicio95 = new Exercicio95();
                         exercicio95.ExercicioAula95();
                         break;
-                    /*case "96":
+                    case "96":
                         Exercicio96 exercicio96 = new Exercicio96();
                         exercicio96.ExercicioAula96();
                         break;
-                    case "97":
+                    /*case "97":
                         Exercicio97 exercicio97 = new Exercicio97();
                         exercicio97.ExercicioAula97();
                         break;
