@@ -10,7 +10,7 @@ namespace POO.NET09
     {
         public int Id { get; set; }
         public string Name { get; set; }
-        public double Salary { get; set; }
+        public double Salary { get; private set; }
 
         public EmployeeEx9(int id, string name, double salary)
         {
