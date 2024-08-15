@@ -9,7 +9,7 @@ using System.Security.Principal;
 
 namespace POO.NET07
 {
-    public class ProgramPOO6
+    public class ProgramPOO7
     {
         public static void Main(string[] args)
         {

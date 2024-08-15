@@ -97,7 +97,10 @@ Este repositório contém exercícios de .NET organizados em diferentes classes.
 90. [Exercício 90](./ConsoleApp1/ExercicioAula90.cs)
 91. [Exercício 91](./ConsoleApp1/ExercicioAula91.cs)
 92. [Exercício 92](./ConsoleApp1/ExercicioAula92.cs)
-
+93. [Exercício 93](./ConsoleApp1/ExercicioAula93.cs)
+94. [Exercício 94](./ConsoleApp1/ExercicioAula94.cs)
+95. [Exercício 95](./ConsoleApp1/ExercicioAula95.cs)
+96. [Exercício 96](./ConsoleApp1/ExercicioAula96.cs)
 
 
 
@@ -470,5 +473,21 @@ Este repositório contém exercícios de .NET organizados em diferentes classes.
 ### Exercício 92
 
 ![Diagrama do Exercício 92](./Image/exe92.png)
+
+### Exercício 93
+
+![Diagrama do Exercício 93](./Image/exe93.png)
+
+### Exercício 94
+
+![Diagrama do Exercício 94](./Image/exe94.png)
+
+### Exercício 95
+
+![Diagrama do Exercício 95](./Image/exe95.png)
+
+### Exercício 96
+
+![Diagrama do Exercício 96](./Image/exe96.png)
 
 
