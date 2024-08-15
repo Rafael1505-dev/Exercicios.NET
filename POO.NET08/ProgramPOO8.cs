@@ -4,7 +4,7 @@ using System.Globalization;
 
 namespace POO.NET08
 {
-    public class ProgramPOO6
+    public class ProgramPOO8
     {
         public static void Main(string[] args)
         {

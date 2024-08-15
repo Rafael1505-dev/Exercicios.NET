@@ -20,6 +20,7 @@ Cada exercício está localizado em uma pasta separada dentro do projeto princip
 * [Exercício 6](#exercício-6)
 * [Exercício 7](#exercício-7)
 * [Exercício 8](#exercício-8)
+* [Exercício 9](#exercício-9)
 
 
 ## Enunciados Propostos 
@@ -93,4 +94,13 @@ Cada exercício está localizado em uma pasta separada dentro do projeto princip
 
 * [Program.cs](./POO.NET08/ProgramPOO8.cs) 
 * [GuestEx8.cs](./POO.NET08/GuestEx8.cs)
+
+### Exercício 9
+
+![Enunciado do Exercício 9](./Image/exePOO9.png)
+
+![Diagrama do Exercício 9](./Image/UMLex9.png)
+
+* [Program.cs](./POO.NET09/ProgramPOO9.cs) 
+* [EmployeeEx9.cs](./POO.NET09/EmployeeEx9.cs)
 
