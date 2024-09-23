@@ -21,6 +21,8 @@ Cada exercício está localizado em uma pasta separada dentro do projeto princip
 * [Exercício 7](#exercício-7)
 * [Exercício 8](#exercício-8)
 * [Exercício 9](#exercício-9)
+* [Exercício 10](#exercício-10)
+
 
 
 ## Enunciados Propostos 
@@ -103,4 +105,11 @@ Cada exercício está localizado em uma pasta separada dentro do projeto princip
 
 * [Program.cs](./POO.NET09/ProgramPOO9.cs) 
 * [EmployeeEx9.cs](./POO.NET09/EmployeeEx9.cs)
+
+### Exercício 10
+
+![Enunciado do Exercício 10](./Image/exePOO10.png)
+
+* [Program.cs](./POO.NET10/ProgramPOO10.cs) 
+* [Entities Folder](./POO.NET10/Entities)
 
