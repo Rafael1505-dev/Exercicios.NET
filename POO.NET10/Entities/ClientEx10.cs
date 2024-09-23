@@ -1,13 +1,13 @@
 ﻿
 namespace POO.NET10.Entities
 {
-    class Client
+    class ClientEx10
     {
         public string Name { get; set; }
         public string Email { get; set; }
         public DateTime BirthDate { get; set; }
 
-        public Client(string name, string email, DateTime birthDate)
+        public ClientEx10(string name, string email, DateTime birthDate)
         {
             Name = name;
             Email = email;

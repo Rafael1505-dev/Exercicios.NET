@@ -5,27 +5,27 @@ using System.Globalization;
 
 namespace POO.NET10.Entities
 {
-    class Order
+    class OrderEx10
     {
         public DateTime Moment { get; set; }
         public OrderStatusEx10 Status { get; set; }
-        public Client Client { get; set; }
+        public ClientEx10 Client { get; set; }
 
-        public List<OrderItem> Items { get; set;} = new List<OrderItem>();
+        public List<OrderItemEx10> Items { get; set;} = new List<OrderItemEx10>();
 
-        public Order(DateTime moment, OrderStatusEx10 status, Client client)
+        public OrderEx10(DateTime moment, OrderStatusEx10 status, ClientEx10 client)
         {
             Moment = moment;
             Status = status;
             Client = client;
         }
 
-        public void AddItem(OrderItem item)
+        public void AddItem(OrderItemEx10 item)
         {
             Items.Add(item);
         }
 
-        public void RemoveItem(OrderItem item) 
+        public void RemoveItem(OrderItemEx10 item) 
         { 
             Items.Remove(item); 
         }
@@ -33,7 +33,7 @@ namespace POO.NET10.Entities
         public double Total()
         {
             double sum = 0.0;
-            foreach (OrderItem item in Items)
+            foreach (OrderItemEx10 item in Items)
             {
                 sum += item.SubTotal();
             }
@@ -49,7 +49,7 @@ namespace POO.NET10.Entities
             sb.AppendLine("Client: " + Client);
             sb.AppendLine("Order items:");
             
-            foreach (OrderItem item in Items)
+            foreach (OrderItemEx10 item in Items)
             {
                 sb.AppendLine(item.ToString());
             }

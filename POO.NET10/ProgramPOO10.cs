@@ -23,8 +23,8 @@ namespace POO.NET10
             Console.Write("Status:");
             OrderStatusEx10 status = Enum.Parse<OrderStatusEx10>(Console.ReadLine());
 
-            Client customer = new Client(name, email, birthdate);
-            Order order = new Order(DateTime.Now, status, customer);
+            ClientEx10 customer = new ClientEx10(name, email, birthdate);
+            OrderEx10 order = new OrderEx10(DateTime.Now, status, customer);
 
             Console.Write("How many items to this order? ");
             int itemOrder = int.Parse(Console.ReadLine());
@@ -39,9 +39,9 @@ namespace POO.NET10
                 Console.Write("Quantity: ");
                 int pqtty = int.Parse(Console.ReadLine());
 
-                Product product = new Product(pName,pPrice);
+                ProductEx10 product = new ProductEx10(pName,pPrice);
 
-                OrderItem orderItem = new OrderItem(pqtty,pPrice,product);
+                OrderItemEx10 orderItem = new OrderItemEx10(pqtty,pPrice,product);
 
                 order.AddItem(orderItem);
             }

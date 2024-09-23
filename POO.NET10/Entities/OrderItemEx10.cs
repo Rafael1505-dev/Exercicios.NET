@@ -2,13 +2,13 @@
 
 namespace POO.NET10.Entities
 {
-    class OrderItem
+    class OrderItemEx10
     {
         public int Quantity { get; set; }
         public double Price { get; set; }
-        public Product Product { get; set; }
+        public ProductEx10 Product { get; set; }
 
-        public OrderItem(int quantity, double price, Product product)
+        public OrderItemEx10(int quantity, double price, ProductEx10 product)
         {
             Quantity = quantity;
             Price = price;

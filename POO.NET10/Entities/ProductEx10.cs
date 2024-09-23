@@ -1,12 +1,12 @@
 ﻿
 namespace POO.NET10.Entities
 {
-    class Product
+    class ProductEx10
     {
         public string Name { get; set; }
         public double Price { get; set; }
 
-        public Product(string name, double price)
+        public ProductEx10(string name, double price)
         {
             Name = name;
             Price = price;
