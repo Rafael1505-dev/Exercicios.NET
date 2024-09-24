@@ -22,7 +22,7 @@ Cada exercício está localizado em uma pasta separada dentro do projeto princip
 * [Exercício 8](#exercício-8)
 * [Exercício 9](#exercício-9)
 * [Exercício 10](#exercício-10)
-* [Exercício 10](#exercício-11)
+* [Exercício 11](#exercício-11)
 
 
 
