@@ -22,7 +22,9 @@ Cada exercício está localizado em uma pasta separada dentro do projeto princip
 * [Exercício 8](#exercício-8)
 * [Exercício 9](#exercício-9)
 * [Exercício 10](#exercício-10)
-* [Exercício 10](#exercício-11)
+* [Exercício 11](#exercício-11)
+* [Exercício 12](#exercício-12)
+* [Exercício 13](#exercício-13)
 
 
 
@@ -120,4 +122,20 @@ Cada exercício está localizado em uma pasta separada dentro do projeto princip
 
 * [Program.cs](./POO.NET11/ProgramPOO11.cs) 
 * [Entities Folder](./POO.NET11/Entities)
+
+### Exercício 12
+
+![Enunciado do Exercício 12](./Image/exePOO12.png)
+![Diagrama do Exercício 12](./Image/UMLex12.png)
+
+* [Program.cs](./POO.NET12/ProgramPOO12.cs) 
+* [Entities Folder](./POO.NET12/Entities)
+
+### Exercício 13
+
+![Enunciado do Exercício 13](./Image/exePOO13.png)
+
+* [Program.cs](./POO.NET13/ProgramPOO13.cs) 
+* [Entities Folder](./POO.NET13/Entities)
+
 
